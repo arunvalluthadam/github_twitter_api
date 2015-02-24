@@ -104,6 +104,8 @@ MEDIA_URL = '/media/'
 # in apps' "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/var/www/example.com/static/"
 
+# ********************************************************************************
+
 # STATIC_ROOT = '/home/simplans/zorse_projects/twitter_api/static/'
 STATIC_ROOT = root('static')
 STATIC_URL = '/static/'
@@ -120,6 +122,21 @@ STATICFILES_DIRS = (
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
 )
+
+# ********************************************************************************
+
+# &&&&&&&&&&&&&&&&&&&&&&&&&&&& second settings for heroku &&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+# BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# STATIC_ROOT = 'staticfiles'
+# STATIC_URL = '/static/'
+
+# STATICFILES_DIRS = (
+#     os.path.join(BASE_DIR, 'static'),
+# )
+
+# &&&&&&&&&&&&&&&&&&&&&&&&&&&&& end second settings for heroku &&&&&&&&&&&&&&&&&&&&&&&
+
 TEMPLATE_DIRS = (
     root('templates'),
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
