@@ -64,7 +64,7 @@ def twitter_ajax(request):
 
 
 def github_ajax(request):
-	API_TOKEN='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+	API_TOKEN='265890eb2870b000014a9a7c4dab504f6d961e44'
 
 	if request.method == "POST":
 		github_user = request.POST['github_text']

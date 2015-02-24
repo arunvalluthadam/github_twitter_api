@@ -2,133 +2,18 @@
     {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Feb 21 15:46:41 +0000 2015", 
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        59, 
-                        73
-                    ], 
-                    "text": "OpenStreetMap"
-                }
-            ], 
-            "symbols": [], 
-            "urls": [], 
-            "user_mentions": [
-                {
-                    "id": 466373669, 
-                    "id_str": "466373669", 
-                    "indices": [
-                        9, 
-                        13
-                    ], 
-                    "name": "ZVV", 
-                    "screen_name": "zvv"
-                }
-            ]
-        }, 
-        "favorite_count": 0, 
-        "favorited": false, 
-        "geo": null, 
-        "id": 569161294726746112, 
-        "id_str": "569161294726746112", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
-        "lang": "de", 
-        "place": null, 
-        "retweet_count": 1, 
-        "retweeted": false, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "text": "Die neue @zvv-Website ist ja echt h\u00fcbsch geworden! Und mit #OpenStreetMap - coole Sache!", 
-        "truncated": false, 
-        "user": {
-            "contributors_enabled": false, 
-            "created_at": "Mon Mar 05 11:44:34 +0000 2007", 
-            "default_profile": false, 
-            "default_profile_image": false, 
-            "description": "", 
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            }, 
-            "favourites_count": 100, 
-            "follow_request_sent": false, 
-            "followers_count": 1186, 
-            "following": false, 
-            "friends_count": 196, 
-            "geo_enabled": true, 
-            "id": 812064, 
-            "id_str": "812064", 
-            "is_translation_enabled": false, 
-            "is_translator": false, 
-            "lang": "en", 
-            "listed_count": 17, 
-            "location": "Zurich, Switzerland", 
-            "name": "Alex", 
-            "notifications": false, 
-            "profile_background_color": "9AE4E8", 
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-            "profile_background_tile": false, 
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/812064/1399183001", 
-            "profile_image_url": "http://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
-            "profile_link_color": "0000FF", 
-            "profile_location": null, 
-            "profile_sidebar_border_color": "87BC44", 
-            "profile_sidebar_fill_color": "E0FF92", 
-            "profile_text_color": "000000", 
-            "profile_use_background_image": true, 
-            "protected": false, 
-            "screen_name": "ar", 
-            "statuses_count": 182, 
-            "time_zone": "Bern", 
-            "url": null, 
-            "utc_offset": 3600, 
-            "verified": false
-        }
-    }, 
-    {
-        "contributors": null, 
-        "coordinates": null, 
-        "created_at": "Thu Feb 19 20:42:19 +0000 2015", 
+        "created_at": "Mon Feb 23 04:24:42 +0000 2015", 
         "entities": {
             "hashtags": [], 
             "symbols": [], 
-            "urls": [
-                {
-                    "display_url": "ow.ly/JliCM", 
-                    "expanded_url": "http://ow.ly/JliCM", 
-                    "indices": [
-                        47, 
-                        69
-                    ], 
-                    "url": "http://t.co/T2Hc1GkU9E"
-                }
-            ], 
-            "user_mentions": [
-                {
-                    "id": 254791849, 
-                    "id_str": "254791849", 
-                    "indices": [
-                        3, 
-                        12
-                    ], 
-                    "name": "Scientific Python", 
-                    "screen_name": "SciPyTip"
-                }
-            ]
+            "urls": [], 
+            "user_mentions": []
         }, 
-        "favorite_count": 0, 
+        "favorite_count": 1, 
         "favorited": false, 
         "geo": null, 
-        "id": 568510917408731136, 
-        "id_str": "568510917408731136", 
+        "id": 569714442826489856, 
+        "id_str": "569714442826489856", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -136,114 +21,14 @@
         "in_reply_to_user_id_str": null, 
         "lang": "en", 
         "place": null, 
-        "possibly_sensitive": false, 
-        "retweet_count": 18, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "retweeted_status": {
-            "contributors": null, 
-            "coordinates": null, 
-            "created_at": "Thu Feb 19 19:43:04 +0000 2015", 
-            "entities": {
-                "hashtags": [], 
-                "symbols": [], 
-                "urls": [
-                    {
-                        "display_url": "ow.ly/JliCM", 
-                        "expanded_url": "http://ow.ly/JliCM", 
-                        "indices": [
-                            33, 
-                            55
-                        ], 
-                        "url": "http://t.co/T2Hc1GkU9E"
-                    }
-                ], 
-                "user_mentions": []
-            }, 
-            "favorite_count": 26, 
-            "favorited": false, 
-            "geo": null, 
-            "id": 568496005240500224, 
-            "id_str": "568496005240500224", 
-            "in_reply_to_screen_name": null, 
-            "in_reply_to_status_id": null, 
-            "in_reply_to_status_id_str": null, 
-            "in_reply_to_user_id": null, 
-            "in_reply_to_user_id_str": null, 
-            "lang": "en", 
-            "place": null, 
-            "possibly_sensitive": false, 
-            "retweet_count": 18, 
-            "retweeted": false, 
-            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
-            "text": "Bash kernel for IPython Notebook http://t.co/T2Hc1GkU9E", 
-            "truncated": false, 
-            "user": {
-                "contributors_enabled": false, 
-                "created_at": "Sun Feb 20 01:07:23 +0000 2011", 
-                "default_profile": false, 
-                "default_profile_image": false, 
-                "description": "Tweets about SciPy (Scientific Python) and related topics from @JohnDCook.", 
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }, 
-                    "url": {
-                        "urls": [
-                            {
-                                "display_url": "johndcook.com/twitter", 
-                                "expanded_url": "http://www.johndcook.com/twitter", 
-                                "indices": [
-                                    0, 
-                                    22
-                                ], 
-                                "url": "http://t.co/LT1LdPjKZ0"
-                            }
-                        ]
-                    }
-                }, 
-                "favourites_count": 18, 
-                "follow_request_sent": false, 
-                "followers_count": 32863, 
-                "following": false, 
-                "friends_count": 16, 
-                "geo_enabled": false, 
-                "id": 254791849, 
-                "id_str": "254791849", 
-                "is_translation_enabled": false, 
-                "is_translator": false, 
-                "lang": "en", 
-                "listed_count": 1384, 
-                "location": "Houston", 
-                "name": "Scientific Python", 
-                "notifications": false, 
-                "profile_background_color": "000000", 
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-                "profile_background_tile": false, 
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/254791849/1415532285", 
-                "profile_image_url": "http://pbs.twimg.com/profile_images/524314030811275265/iCczq4f7_normal.png", 
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/524314030811275265/iCczq4f7_normal.png", 
-                "profile_link_color": "004899", 
-                "profile_location": null, 
-                "profile_sidebar_border_color": "FFFFFF", 
-                "profile_sidebar_fill_color": "DDEEF6", 
-                "profile_text_color": "333333", 
-                "profile_use_background_image": false, 
-                "protected": false, 
-                "screen_name": "SciPyTip", 
-                "statuses_count": 2535, 
-                "time_zone": null, 
-                "url": "http://t.co/LT1LdPjKZ0", 
-                "utc_offset": null, 
-                "verified": false
-            }
-        }, 
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-        "text": "RT @SciPyTip: Bash kernel for IPython Notebook http://t.co/T2Hc1GkU9E", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "My mom is trying to pronounce Benedict's name. This is amazing.", 
         "truncated": false, 
         "user": {
             "contributors_enabled": false, 
-            "created_at": "Mon Mar 05 11:44:34 +0000 2007", 
+            "created_at": "Fri Sep 08 14:35:19 +0000 2006", 
             "default_profile": false, 
             "default_profile_image": false, 
             "description": "", 
@@ -252,28 +37,28 @@
                     "urls": []
                 }
             }, 
-            "favourites_count": 100, 
+            "favourites_count": 465, 
             "follow_request_sent": false, 
-            "followers_count": 1186, 
+            "followers_count": 22107, 
             "following": false, 
-            "friends_count": 196, 
-            "geo_enabled": true, 
-            "id": 812064, 
-            "id_str": "812064", 
+            "friends_count": 124, 
+            "geo_enabled": false, 
+            "id": 5583, 
+            "id_str": "5583", 
             "is_translation_enabled": false, 
             "is_translator": false, 
             "lang": "en", 
-            "listed_count": 17, 
-            "location": "Zurich, Switzerland", 
-            "name": "Alex", 
+            "listed_count": 282, 
+            "location": "Santa Cruz, CA", 
+            "name": "erin", 
             "notifications": false, 
             "profile_background_color": "9AE4E8", 
             "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
             "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
             "profile_background_tile": false, 
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/812064/1399183001", 
-            "profile_image_url": "http://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5583/1352148197", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
             "profile_link_color": "0000FF", 
             "profile_location": null, 
             "profile_sidebar_border_color": "87BC44", 
@@ -281,11 +66,220 @@
             "profile_text_color": "000000", 
             "profile_use_background_image": true, 
             "protected": false, 
-            "screen_name": "ar", 
-            "statuses_count": 182, 
-            "time_zone": "Bern", 
+            "screen_name": "e", 
+            "statuses_count": 1293, 
+            "time_zone": null, 
             "url": null, 
-            "utc_offset": 3600, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Mon Feb 23 04:24:00 +0000 2015", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        99, 
+                        106
+                    ], 
+                    "text": "oscars"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 14996376, 
+                    "id_str": "14996376", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "Moshe Kasher", 
+                    "screen_name": "moshekasher"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 569714264467902464, 
+        "id_str": "569714264467902464", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 99, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon Feb 23 04:15:13 +0000 2015", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            82, 
+                            89
+                        ], 
+                        "text": "oscars"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 280, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 569712056493936640, 
+            "id_str": "569712056493936640", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "retweet_count": 99, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "The Sound of Music is my second favorite Holocaust themed musical family classic. #oscars", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jun 03 19:20:38 +0000 2008", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Comedian. Jew. Jew comedian. Author of the memoir: Kasher In The Rye buy it here: http://t.co/kFnwpV2u Watch my special: http://t.co/Jdj7hxEl", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "tinyurl.com/72hyatg", 
+                                "expanded_url": "http://tinyurl.com/72hyatg", 
+                                "indices": [
+                                    82, 
+                                    102
+                                ], 
+                                "url": "http://t.co/kFnwpV2u"
+                            }, 
+                            {
+                                "display_url": "movies.netflix.com/WiMovie/Moshe_\u2026", 
+                                "expanded_url": "http://movies.netflix.com/WiMovie/Moshe_Kasher_Live_in_Oakland/70256512?locale=en-US", 
+                                "indices": [
+                                    121, 
+                                    141
+                                ], 
+                                "url": "http://t.co/Jdj7hxEl"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "moshekasher.com", 
+                                "expanded_url": "http://www.moshekasher.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/xaqOX6yGHo"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 3630, 
+                "follow_request_sent": false, 
+                "followers_count": 112125, 
+                "following": false, 
+                "friends_count": 522, 
+                "geo_enabled": true, 
+                "id": 14996376, 
+                "id_str": "14996376", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1961, 
+                "location": "Los Angeles", 
+                "name": "Moshe Kasher", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14996376/1366232923", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/516071719753109504/XLIJnMz1_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/516071719753109504/XLIJnMz1_normal.jpeg", 
+                "profile_link_color": "0084B4", 
+                "profile_location": null, 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "moshekasher", 
+                "statuses_count": 10259, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "url": "http://t.co/xaqOX6yGHo", 
+                "utc_offset": -28800, 
+                "verified": true
+            }
+        }, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @moshekasher: The Sound of Music is my second favorite Holocaust themed musical family classic. #oscars", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Fri Sep 08 14:35:19 +0000 2006", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 465, 
+            "follow_request_sent": false, 
+            "followers_count": 22107, 
+            "following": false, 
+            "friends_count": 124, 
+            "geo_enabled": false, 
+            "id": 5583, 
+            "id_str": "5583", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 282, 
+            "location": "Santa Cruz, CA", 
+            "name": "erin", 
+            "notifications": false, 
+            "profile_background_color": "9AE4E8", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_tile": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5583/1352148197", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
+            "profile_link_color": "0000FF", 
+            "profile_location": null, 
+            "profile_sidebar_border_color": "87BC44", 
+            "profile_sidebar_fill_color": "E0FF92", 
+            "profile_text_color": "000000", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "e", 
+            "statuses_count": 1293, 
+            "time_zone": null, 
+            "url": null, 
+            "utc_offset": null, 
             "verified": false
         }
     }
