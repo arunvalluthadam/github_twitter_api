@@ -1,0 +1,18 @@
+{% if github_dict.count > 0 %}
+
+	{% for github in github_dict %}
+		<div class="" style="padding:10px;margin-bottom:20px;list-style:none;background:rgba(124,0,0,0.5);color:white;">
+			<li class="tweettext"><a style="color:yellow" href="{{ github.clone_url }}">{{ github.name }}</a></li>
+			<li class="tweettext">{{ github.text }}</li>
+			<li class="tweettext">{{ github.clone_url }}</li>
+			<li class="tweettext">{{ github.date }}</li>
+		</div>
+	{% endfor %}
+
+{% else %}
+
+	<div class="" style="padding:10px;margin-bottom:20px;list-style:none;background:rgba(124,0,0,0.5);color:white;">
+		<h3>No github Avilable !!!</h3>
+	</div>
+
+{% endif %}

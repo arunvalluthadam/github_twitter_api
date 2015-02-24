@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<div class="container">
+		<br>
+		<!-- Twitter Api starts from here -->
+		<ul id="home_tweets">
+			<!-- <h2><center>Twitter & Github API</center></h2><br> -->
+			<div class="row">
+				<div class="col-sm-5 img img-rounded" style="padding:20px;border:1px solid;background:#66FFFF">
+					<div class="col-sm-8"><h2>Twitter Feed</h2></div>
+					<!-- <div class="col-sm-4"><img width="40px" src="/static/images/twitter.png"></div> -->
+					<!-- <hr class="phone-visible"> -->
+					{% csrf_token %}
+					<input class="img img-rounded" id="twitter_ajax" name="twitter_input" placeholder="Screen Name" style="width:430px;height:40px;text-align:center;"><br>
+
+					<hr class="phone-visible">
+
+					<div id="tweet-results"></div>
+
+				</div>
+
+		<!-- Github api starting from here -->
+
+				<div class="col-sm-5 img img-rounded" style="margin-left:100px;padding:20px;border:1px solid;background:#99CCFF">
+					<div class="col-sm-8"><h2>Github Feed</h2></div>
+					<!-- <div class="col-sm-4"><img width="40px" src="/static/images/github.gif"></div> -->
+					{% csrf_token %}
+					<input class="img img-rounded" id="github_ajax" name="github_input" placeholder="UserName" style="width:430px;height:40px;text-align:center;"><br>
+
+					<hr class="phone-visible">
+
+					<div id="github-results"></div>
+
+				</div>
+
+		<!-- End Github api starting from here -->
+
+			</div>
+		</ul>
+
+		
+
+	</div>
+{% endblock %}

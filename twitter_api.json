@@ -1,0 +1,292 @@
+[
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Feb 21 15:46:41 +0000 2015", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        59, 
+                        73
+                    ], 
+                    "text": "OpenStreetMap"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 466373669, 
+                    "id_str": "466373669", 
+                    "indices": [
+                        9, 
+                        13
+                    ], 
+                    "name": "ZVV", 
+                    "screen_name": "zvv"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 569161294726746112, 
+        "id_str": "569161294726746112", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "de", 
+        "place": null, 
+        "retweet_count": 1, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Die neue @zvv-Website ist ja echt h\u00fcbsch geworden! Und mit #OpenStreetMap - coole Sache!", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 05 11:44:34 +0000 2007", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 100, 
+            "follow_request_sent": false, 
+            "followers_count": 1186, 
+            "following": false, 
+            "friends_count": 196, 
+            "geo_enabled": true, 
+            "id": 812064, 
+            "id_str": "812064", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 17, 
+            "location": "Zurich, Switzerland", 
+            "name": "Alex", 
+            "notifications": false, 
+            "profile_background_color": "9AE4E8", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_tile": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/812064/1399183001", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
+            "profile_link_color": "0000FF", 
+            "profile_location": null, 
+            "profile_sidebar_border_color": "87BC44", 
+            "profile_sidebar_fill_color": "E0FF92", 
+            "profile_text_color": "000000", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "ar", 
+            "statuses_count": 182, 
+            "time_zone": "Bern", 
+            "url": null, 
+            "utc_offset": 3600, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Thu Feb 19 20:42:19 +0000 2015", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "ow.ly/JliCM", 
+                    "expanded_url": "http://ow.ly/JliCM", 
+                    "indices": [
+                        47, 
+                        69
+                    ], 
+                    "url": "http://t.co/T2Hc1GkU9E"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 254791849, 
+                    "id_str": "254791849", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "Scientific Python", 
+                    "screen_name": "SciPyTip"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 568510917408731136, 
+        "id_str": "568510917408731136", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 18, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Feb 19 19:43:04 +0000 2015", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "ow.ly/JliCM", 
+                        "expanded_url": "http://ow.ly/JliCM", 
+                        "indices": [
+                            33, 
+                            55
+                        ], 
+                        "url": "http://t.co/T2Hc1GkU9E"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 26, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 568496005240500224, 
+            "id_str": "568496005240500224", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 18, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+            "text": "Bash kernel for IPython Notebook http://t.co/T2Hc1GkU9E", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Feb 20 01:07:23 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Tweets about SciPy (Scientific Python) and related topics from @JohnDCook.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "johndcook.com/twitter", 
+                                "expanded_url": "http://www.johndcook.com/twitter", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/LT1LdPjKZ0"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 18, 
+                "follow_request_sent": false, 
+                "followers_count": 32863, 
+                "following": false, 
+                "friends_count": 16, 
+                "geo_enabled": false, 
+                "id": 254791849, 
+                "id_str": "254791849", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1384, 
+                "location": "Houston", 
+                "name": "Scientific Python", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/254791849/1415532285", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/524314030811275265/iCczq4f7_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/524314030811275265/iCczq4f7_normal.png", 
+                "profile_link_color": "004899", 
+                "profile_location": null, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "SciPyTip", 
+                "statuses_count": 2535, 
+                "time_zone": null, 
+                "url": "http://t.co/LT1LdPjKZ0", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @SciPyTip: Bash kernel for IPython Notebook http://t.co/T2Hc1GkU9E", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 05 11:44:34 +0000 2007", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 100, 
+            "follow_request_sent": false, 
+            "followers_count": 1186, 
+            "following": false, 
+            "friends_count": 196, 
+            "geo_enabled": true, 
+            "id": 812064, 
+            "id_str": "812064", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 17, 
+            "location": "Zurich, Switzerland", 
+            "name": "Alex", 
+            "notifications": false, 
+            "profile_background_color": "9AE4E8", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_tile": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/812064/1399183001", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/429000456891670528/TkSmK8j2_normal.jpeg", 
+            "profile_link_color": "0000FF", 
+            "profile_location": null, 
+            "profile_sidebar_border_color": "87BC44", 
+            "profile_sidebar_fill_color": "E0FF92", 
+            "profile_text_color": "000000", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "ar", 
+            "statuses_count": 182, 
+            "time_zone": "Bern", 
+            "url": null, 
+            "utc_offset": 3600, 
+            "verified": false
+        }
+    }
+]

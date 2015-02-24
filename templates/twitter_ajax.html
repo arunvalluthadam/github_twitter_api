@@ -1,0 +1,17 @@
+{% if outer_dict.count > 0 %}
+
+	{% for tweet in outer_dict %}
+		<div class="" style="padding:10px;margin-bottom:20px;list-style:none;background:rgba(124,0,0,0.5);color:white;">
+			<li class="tweettext">{{ tweet.name }}</li>
+			<li class="tweettext">{{ tweet.text }}</li>
+			<li class="tweettext">{{ tweet.date }}</li>
+		</div>
+	{% endfor %}
+
+{% else %}
+
+	<div class="" style="padding:10px;margin-bottom:20px;list-style:none;background:rgba(124,0,0,0.5);color:white;">
+		<h3>No Tweets Avilable !!!</h3>
+	</div>
+
+{% endif %}
