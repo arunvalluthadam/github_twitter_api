@@ -90,7 +90,8 @@ USE_L10N = True
 
 USE_TZ = True
 
-MEDIA_ROOT = '/home/simplans/zorse_projects/twitter_api/media/'
+# MEDIA_ROOT = '/home/simplans/zorse_projects/twitter_api/media/'
+MEDIA_ROOT = root('media')
 
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
@@ -103,7 +104,8 @@ MEDIA_URL = '/media/'
 # in apps' "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/var/www/example.com/static/"
 
-STATIC_ROOT = '/home/simplans/zorse_projects/twitter_api/static/'
+# STATIC_ROOT = '/home/simplans/zorse_projects/twitter_api/static/'
+STATIC_ROOT = root('static')
 STATIC_URL = '/static/'
 
 
@@ -111,7 +113,8 @@ STATIC_URL = '/static/'
 # Example: "http://example.com/static/", "http://static.example.com/"
 #   STATIC_URL = '/static/'
 STATICFILES_DIRS = (
-    '/home/simplans/zorse_projects/twitter_api/staticdirs/',
+    # '/home/simplans/zorse_projects/twitter_api/staticdirs/',
+    root('staticdirs'),
 
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.

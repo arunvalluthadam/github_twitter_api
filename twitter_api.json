@@ -2,18 +2,18 @@
     {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Feb 23 04:24:42 +0000 2015", 
+        "created_at": "Mon Feb 23 19:13:00 +0000 2015", 
         "entities": {
             "hashtags": [], 
             "symbols": [], 
             "urls": [], 
             "user_mentions": []
         }, 
-        "favorite_count": 1, 
+        "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 569714442826489856, 
-        "id_str": "569714442826489856", 
+        "id": 569937988945375232, 
+        "id_str": "569937988945375232", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -23,263 +23,166 @@
         "place": null, 
         "retweet_count": 0, 
         "retweeted": false, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "My mom is trying to pronounce Benedict's name. This is amazing.", 
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
+        "text": "you know something's up with this industry when conferences bring in skaters to talk because it's the cool thing to do.", 
         "truncated": false, 
         "user": {
             "contributors_enabled": false, 
-            "created_at": "Fri Sep 08 14:35:19 +0000 2006", 
+            "created_at": "Fri Sep 08 00:53:40 +0000 2006", 
             "default_profile": false, 
             "default_profile_image": false, 
-            "description": "", 
+            "description": "Figuring things out in the intersection of code, design and capital. Head of product at @disruptioncorp.", 
             "entities": {
                 "description": {
                     "urls": []
+                }, 
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "helloform.com", 
+                            "expanded_url": "http://helloform.com", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "url": "http://t.co/5aEv62uwVk"
+                        }
+                    ]
                 }
             }, 
-            "favourites_count": 465, 
+            "favourites_count": 1928, 
             "follow_request_sent": false, 
-            "followers_count": 22107, 
+            "followers_count": 83456, 
             "following": false, 
-            "friends_count": 124, 
-            "geo_enabled": false, 
-            "id": 5583, 
-            "id_str": "5583", 
+            "friends_count": 449, 
+            "geo_enabled": true, 
+            "id": 5511, 
+            "id_str": "5511", 
             "is_translation_enabled": false, 
             "is_translator": false, 
             "lang": "en", 
-            "listed_count": 282, 
-            "location": "Santa Cruz, CA", 
-            "name": "erin", 
+            "listed_count": 669, 
+            "location": "", 
+            "name": "Fred Oliveira", 
             "notifications": false, 
-            "profile_background_color": "9AE4E8", 
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-            "profile_background_tile": false, 
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5583/1352148197", 
-            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
-            "profile_link_color": "0000FF", 
+            "profile_background_color": "C0DEED", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000047755011/26a8736d372060b74cc2fa331b7b05e9.png", 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000047755011/26a8736d372060b74cc2fa331b7b05e9.png", 
+            "profile_background_tile": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5511/1347980629", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/507855780314247169/xpyZUp0l_normal.jpeg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/507855780314247169/xpyZUp0l_normal.jpeg", 
+            "profile_link_color": "0084B4", 
             "profile_location": null, 
-            "profile_sidebar_border_color": "87BC44", 
-            "profile_sidebar_fill_color": "E0FF92", 
-            "profile_text_color": "000000", 
+            "profile_sidebar_border_color": "000000", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
             "profile_use_background_image": true, 
             "protected": false, 
-            "screen_name": "e", 
-            "statuses_count": 1293, 
-            "time_zone": null, 
-            "url": null, 
-            "utc_offset": null, 
+            "screen_name": "f", 
+            "statuses_count": 9720, 
+            "time_zone": "Lisbon", 
+            "url": "http://t.co/5aEv62uwVk", 
+            "utc_offset": 0, 
             "verified": false
         }
     }, 
     {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Mon Feb 23 04:24:00 +0000 2015", 
+        "created_at": "Mon Feb 23 18:32:38 +0000 2015", 
         "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        99, 
-                        106
-                    ], 
-                    "text": "oscars"
-                }
-            ], 
+            "hashtags": [], 
             "symbols": [], 
             "urls": [], 
             "user_mentions": [
                 {
-                    "id": 14996376, 
-                    "id_str": "14996376", 
+                    "id": 5905672, 
+                    "id_str": "5905672", 
                     "indices": [
-                        3, 
-                        15
+                        0, 
+                        12
                     ], 
-                    "name": "Moshe Kasher", 
-                    "screen_name": "moshekasher"
+                    "name": "Dan Benjamin", 
+                    "screen_name": "danbenjamin"
                 }
             ]
         }, 
         "favorite_count": 0, 
         "favorited": false, 
         "geo": null, 
-        "id": 569714264467902464, 
-        "id_str": "569714264467902464", 
-        "in_reply_to_screen_name": null, 
-        "in_reply_to_status_id": null, 
-        "in_reply_to_status_id_str": null, 
-        "in_reply_to_user_id": null, 
-        "in_reply_to_user_id_str": null, 
+        "id": 569927830341099520, 
+        "id_str": "569927830341099520", 
+        "in_reply_to_screen_name": "danbenjamin", 
+        "in_reply_to_status_id": 569925974554337280, 
+        "in_reply_to_status_id_str": "569925974554337280", 
+        "in_reply_to_user_id": 5905672, 
+        "in_reply_to_user_id_str": "5905672", 
         "lang": "en", 
         "place": null, 
-        "retweet_count": 99, 
+        "retweet_count": 0, 
         "retweeted": false, 
-        "retweeted_status": {
-            "contributors": null, 
-            "coordinates": null, 
-            "created_at": "Mon Feb 23 04:15:13 +0000 2015", 
-            "entities": {
-                "hashtags": [
-                    {
-                        "indices": [
-                            82, 
-                            89
-                        ], 
-                        "text": "oscars"
-                    }
-                ], 
-                "symbols": [], 
-                "urls": [], 
-                "user_mentions": []
-            }, 
-            "favorite_count": 280, 
-            "favorited": false, 
-            "geo": null, 
-            "id": 569712056493936640, 
-            "id_str": "569712056493936640", 
-            "in_reply_to_screen_name": null, 
-            "in_reply_to_status_id": null, 
-            "in_reply_to_status_id_str": null, 
-            "in_reply_to_user_id": null, 
-            "in_reply_to_user_id_str": null, 
-            "lang": "en", 
-            "place": null, 
-            "retweet_count": 99, 
-            "retweeted": false, 
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-            "text": "The Sound of Music is my second favorite Holocaust themed musical family classic. #oscars", 
-            "truncated": false, 
-            "user": {
-                "contributors_enabled": false, 
-                "created_at": "Tue Jun 03 19:20:38 +0000 2008", 
-                "default_profile": true, 
-                "default_profile_image": false, 
-                "description": "Comedian. Jew. Jew comedian. Author of the memoir: Kasher In The Rye buy it here: http://t.co/kFnwpV2u Watch my special: http://t.co/Jdj7hxEl", 
-                "entities": {
-                    "description": {
-                        "urls": [
-                            {
-                                "display_url": "tinyurl.com/72hyatg", 
-                                "expanded_url": "http://tinyurl.com/72hyatg", 
-                                "indices": [
-                                    82, 
-                                    102
-                                ], 
-                                "url": "http://t.co/kFnwpV2u"
-                            }, 
-                            {
-                                "display_url": "movies.netflix.com/WiMovie/Moshe_\u2026", 
-                                "expanded_url": "http://movies.netflix.com/WiMovie/Moshe_Kasher_Live_in_Oakland/70256512?locale=en-US", 
-                                "indices": [
-                                    121, 
-                                    141
-                                ], 
-                                "url": "http://t.co/Jdj7hxEl"
-                            }
-                        ]
-                    }, 
-                    "url": {
-                        "urls": [
-                            {
-                                "display_url": "moshekasher.com", 
-                                "expanded_url": "http://www.moshekasher.com", 
-                                "indices": [
-                                    0, 
-                                    22
-                                ], 
-                                "url": "http://t.co/xaqOX6yGHo"
-                            }
-                        ]
-                    }
-                }, 
-                "favourites_count": 3630, 
-                "follow_request_sent": false, 
-                "followers_count": 112125, 
-                "following": false, 
-                "friends_count": 522, 
-                "geo_enabled": true, 
-                "id": 14996376, 
-                "id_str": "14996376", 
-                "is_translation_enabled": false, 
-                "is_translator": false, 
-                "lang": "en", 
-                "listed_count": 1961, 
-                "location": "Los Angeles", 
-                "name": "Moshe Kasher", 
-                "notifications": false, 
-                "profile_background_color": "C0DEED", 
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-                "profile_background_tile": false, 
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14996376/1366232923", 
-                "profile_image_url": "http://pbs.twimg.com/profile_images/516071719753109504/XLIJnMz1_normal.jpeg", 
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/516071719753109504/XLIJnMz1_normal.jpeg", 
-                "profile_link_color": "0084B4", 
-                "profile_location": null, 
-                "profile_sidebar_border_color": "C0DEED", 
-                "profile_sidebar_fill_color": "DDEEF6", 
-                "profile_text_color": "333333", 
-                "profile_use_background_image": true, 
-                "protected": false, 
-                "screen_name": "moshekasher", 
-                "statuses_count": 10259, 
-                "time_zone": "Pacific Time (US & Canada)", 
-                "url": "http://t.co/xaqOX6yGHo", 
-                "utc_offset": -28800, 
-                "verified": true
-            }
-        }, 
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
-        "text": "RT @moshekasher: The Sound of Music is my second favorite Holocaust themed musical family classic. #oscars", 
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
+        "text": "@danbenjamin if it includes putting it back in the box and returning it, I'm down.", 
         "truncated": false, 
         "user": {
             "contributors_enabled": false, 
-            "created_at": "Fri Sep 08 14:35:19 +0000 2006", 
+            "created_at": "Fri Sep 08 00:53:40 +0000 2006", 
             "default_profile": false, 
             "default_profile_image": false, 
-            "description": "", 
+            "description": "Figuring things out in the intersection of code, design and capital. Head of product at @disruptioncorp.", 
             "entities": {
                 "description": {
                     "urls": []
+                }, 
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "helloform.com", 
+                            "expanded_url": "http://helloform.com", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "url": "http://t.co/5aEv62uwVk"
+                        }
+                    ]
                 }
             }, 
-            "favourites_count": 465, 
+            "favourites_count": 1928, 
             "follow_request_sent": false, 
-            "followers_count": 22107, 
+            "followers_count": 83456, 
             "following": false, 
-            "friends_count": 124, 
-            "geo_enabled": false, 
-            "id": 5583, 
-            "id_str": "5583", 
+            "friends_count": 449, 
+            "geo_enabled": true, 
+            "id": 5511, 
+            "id_str": "5511", 
             "is_translation_enabled": false, 
             "is_translator": false, 
             "lang": "en", 
-            "listed_count": 282, 
-            "location": "Santa Cruz, CA", 
-            "name": "erin", 
+            "listed_count": 669, 
+            "location": "", 
+            "name": "Fred Oliveira", 
             "notifications": false, 
-            "profile_background_color": "9AE4E8", 
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-            "profile_background_tile": false, 
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5583/1352148197", 
-            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000439240914/a8bf488cb3a99ac07c20f74a415c9ed7_normal.jpeg", 
-            "profile_link_color": "0000FF", 
+            "profile_background_color": "C0DEED", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000047755011/26a8736d372060b74cc2fa331b7b05e9.png", 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000047755011/26a8736d372060b74cc2fa331b7b05e9.png", 
+            "profile_background_tile": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5511/1347980629", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/507855780314247169/xpyZUp0l_normal.jpeg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/507855780314247169/xpyZUp0l_normal.jpeg", 
+            "profile_link_color": "0084B4", 
             "profile_location": null, 
-            "profile_sidebar_border_color": "87BC44", 
-            "profile_sidebar_fill_color": "E0FF92", 
-            "profile_text_color": "000000", 
+            "profile_sidebar_border_color": "000000", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
             "profile_use_background_image": true, 
             "protected": false, 
-            "screen_name": "e", 
-            "statuses_count": 1293, 
-            "time_zone": null, 
-            "url": null, 
-            "utc_offset": null, 
+            "screen_name": "f", 
+            "statuses_count": 9720, 
+            "time_zone": "Lisbon", 
+            "url": "http://t.co/5aEv62uwVk", 
+            "utc_offset": 0, 
             "verified": false
         }
     }
