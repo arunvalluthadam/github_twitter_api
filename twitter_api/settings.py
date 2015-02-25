@@ -106,22 +106,22 @@ MEDIA_URL = '/media/'
 
 # ********************************************************************************
 
-# STATIC_ROOT = '/home/simplans/zorse_projects/twitter_api/static/'
-STATIC_ROOT = root('static')
-STATIC_URL = '/static/'
+# # STATIC_ROOT = '/home/simplans/zorse_projects/twitter_api/static/'
+# STATIC_ROOT = root('static')
+# STATIC_URL = '/static/'
 
 
-# URL prefix for static files.
-# Example: "http://example.com/static/", "http://static.example.com/"
-#   STATIC_URL = '/static/'
-STATICFILES_DIRS = (
-    # '/home/simplans/zorse_projects/twitter_api/staticdirs/',
-    root('staticdirs'),
+# # URL prefix for static files.
+# # Example: "http://example.com/static/", "http://static.example.com/"
+# #   STATIC_URL = '/static/'
+# STATICFILES_DIRS = (
+#     # '/home/simplans/zorse_projects/twitter_api/staticdirs/',
+#     root('staticdirs'),
 
-    # Put strings here, like "/home/html/static" or "C:/www/django/static".
-    # Always use forward slashes, even on Windows.
-    # Don't forget to use absolute paths, not relative paths.
-)
+#     # Put strings here, like "/home/html/static" or "C:/www/django/static".
+#     # Always use forward slashes, even on Windows.
+#     # Don't forget to use absolute paths, not relative paths.
+# )
 
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
@@ -132,13 +132,13 @@ STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
 # &&&&&&&&&&&&&&&&&&&&&&&&&&&& second settings for heroku &&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-# BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# STATIC_ROOT = 'staticfiles'
-# STATIC_URL = '/static/'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+STATIC_ROOT = 'staticfiles'
+STATIC_URL = '/static/'
 
-# STATICFILES_DIRS = (
-#     os.path.join(BASE_DIR, 'static'),
-# )
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
 
 # &&&&&&&&&&&&&&&&&&&&&&&&&&&&& end second settings for heroku &&&&&&&&&&&&&&&&&&&&&&&
 
