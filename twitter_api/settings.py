@@ -130,17 +130,7 @@ STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
 # ********************************************************************************
 
-# &&&&&&&&&&&&&&&&&&&&&&&&&&&& second settings for heroku &&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-# BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# STATIC_ROOT = 'staticfiles'
-# STATIC_URL = '/static/'
-
-# STATICFILES_DIRS = (
-#     os.path.join(BASE_DIR, 'static'),
-# )
-
-# &&&&&&&&&&&&&&&&&&&&&&&&&&&&& end second settings for heroku &&&&&&&&&&&&&&&&&&&&&&&
 
 TEMPLATE_DIRS = (
     root('templates'),
