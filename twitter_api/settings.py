@@ -123,6 +123,11 @@ STATICFILES_DIRS = (
     # Don't forget to use absolute paths, not relative paths.
 )
 
+# Simplified static file serving.
+# https://warehouse.python.org/project/whitenoise/
+
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+
 # ********************************************************************************
 
 # &&&&&&&&&&&&&&&&&&&&&&&&&&&& second settings for heroku &&&&&&&&&&&&&&&&&&&&&&&&&&&&
